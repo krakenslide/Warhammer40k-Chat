@@ -1,5 +1,5 @@
-WH40K README
-This is a README file for the Wh40k Application project. The project consists of backend server code written in Node.js using Express.js for handling HTTP requests, MongoDB for data storage, and Socket.IO for real-time communication. Below is an overview of the project structure and instructions on how to set it up.
+Chat Application README
+This is a README file for the Chat Application project. The project consists of backend server code written in Node.js using Express.js for handling HTTP requests, MongoDB for data storage, and Socket.IO for real-time communication. Below is an overview of the project structure and instructions on how to set it up.
 
 Project Structure
 The project consists of the following files and directories:
